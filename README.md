@@ -16,7 +16,7 @@
 
 <p align="center">
 
-              #NOBITA
+              💞NOBITA💞
 
 ## <b>installation</b>
 
@@ -38,9 +38,9 @@
 
 ✳️ git clone https://github.com/NOBITA2023/blackpanther.git
 
-✳️ cd blackpanther
+✳️ cd nobita
 
-✳️ python2 blackpanther.py
+✳️ python2 nobita.py
 
       ✳️USERNAME : NOBITA
 
