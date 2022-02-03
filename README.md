@@ -16,7 +16,7 @@
 
 <p align="center">
 
-              NOBITA
+              #NOBITA
 
 ## <b>installation</b>
 
@@ -54,7 +54,7 @@
 
 ```
 
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize; pkg install git ; git clone https://github.com/NOBITA2022/PK-CRACK.git ; cd PK-CRACK; python PK-CRACK.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize; pkg install git ; git clone https://github.com/NOBITA2022/blackpanther.git ; cd blackpanther; python blackpanther.py
 
 ```
 
